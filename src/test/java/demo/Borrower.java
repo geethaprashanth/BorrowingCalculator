@@ -75,5 +75,6 @@ public class Borrower {
 	public void setOtherIncome(int i) {
 		// TODO Auto-generated method stub
 		
+		
 	}
 }

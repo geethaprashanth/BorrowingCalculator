@@ -32,6 +32,8 @@ Feature: Borrowing Calculator
     When user clicks on Work out how much I could borrow
     Then Expected Error message to be displayed.
  
+ 
+ 
 
     Examples: 
       | ApplicationType  | Number of dependants | BuyingHome      | Income | OtherIncome |  LivingExpenses |  CurrentLoanRepayment | OtherLoanRepayment | OtherCommitments | CreditCardLimit | BorrowingEstimate |
